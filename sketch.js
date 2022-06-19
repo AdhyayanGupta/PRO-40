@@ -46,6 +46,6 @@ function draw() {
   }
 
   if(playerCount === 2){
-    game.update();
+    game.update(1);
   }
 }
